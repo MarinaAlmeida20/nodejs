@@ -1,0 +1,22 @@
+{
+  "name": "project-nodejs-rest",
+  "version": "1.0.0",
+  "description": "Learning React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarinaAlmeida20/React.git"
+  },
+  "author": "Marina Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarinaAlmeida20/React/issues"
+  },
+  "homepage": "https://github.com/MarinaAlmeida20/React#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
